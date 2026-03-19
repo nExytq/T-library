@@ -1,0 +1,15 @@
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.AssemblyInfoInputs.cache
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.AssemblyInfo.cs
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.csproj.CoreCompileInputs.cache
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.sourcelink.json
+E:\projects\C#\T-library\bin\Debug\net10.0\T-library.exe
+E:\projects\C#\T-library\bin\Debug\net10.0\T-library.deps.json
+E:\projects\C#\T-library\bin\Debug\net10.0\T-library.runtimeconfig.json
+E:\projects\C#\T-library\bin\Debug\net10.0\T-library.dll
+E:\projects\C#\T-library\bin\Debug\net10.0\T-library.pdb
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.dll
+E:\projects\C#\T-library\obj\Debug\net10.0\refint\T-library.dll
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.pdb
+E:\projects\C#\T-library\obj\Debug\net10.0\T-library.genruntimeconfig.cache
+E:\projects\C#\T-library\obj\Debug\net10.0\ref\T-library.dll
